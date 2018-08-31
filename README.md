@@ -19,3 +19,4 @@ Multiple weapons/upgrades
 Different ships to choose from
 Missions?
 Mining
+Mobile deployment (android and or IOS)
