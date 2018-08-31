@@ -13,6 +13,7 @@ Game details: We will build a space shooter where the player controls a ship as 
 Additional features: (wish list)
 Multiple weapons/upgrades
 Different ships to choose from
+<<<<<<< HEAD
 Missions? (miner or fighter contracts)
 Different Worlds- possible exploration of said Worlds
 Adventure vs Arcade Mode 
@@ -30,3 +31,8 @@ We will be using GitKraken with Unity and use the following process: creating a 
 Goals: Our primary goal is to set up a foundation of the game environment.  We will continue reviewing tutorials relevant to the game we are making. We will adopt code and assets from these tutorials and modify them and credit 3rd party sources where appropriate.
 
 Method of communication: We are primarily using Slack as our medium of communication. We will also meet in person or use a conference application to review everyone's current setup and make sure we are on the same page.
+=======
+Missions?
+Mining
+Mobile deployment (android and or IOS)
+>>>>>>> Update README.md
