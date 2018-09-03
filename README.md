@@ -25,8 +25,8 @@ Second Step: Organize our to-do list and familiarize everyone on how a user is v
 
 Third Step: We will meet and discuss the highest priority features and bugs to be worked on for the next sprint to get closer to our goal of a finished product.
 
-We will be using GitKraken with Unity and use the following process: creating a new branch with name formatted as bug/bugName or feature/featureName before work is done on the checked out code. Once bug or feature is complete on checked out branch, team member will do a poll request to have the changes be peer reviewed before it is approved and merged into Dev.
+We will be using GitKraken with Unity and use the following process: creating a new branch with name formatted as bug/bugName or feature/featureName before work is done on the checked out code. Once bug or feature is complete on checked out branch, team member will do a pull request to have the changes be peer reviewed before it is approved and merged into Dev. Dev branch goes through QA process before it is merged into Master.
 
 Goals: Our primary goal is to set up a foundation of the game environment.  We will continue reviewing tutorials relevant to the game we are making. We will adopt code and assets from these tutorials and modify them and credit 3rd party sources where appropriate.
 
-Method of communication: We are primarily using Slack as our medium of communication. We will also meet in person to review everyone's current setup and make sure we are on the same page.
+Method of communication: We are primarily using Slack as our medium of communication. We will also meet in person or use a conference application to review everyone's current setup and make sure we are on the same page.
