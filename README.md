@@ -5,7 +5,7 @@ Group #4
 Game Project Proposal
 
 Contributors:
-John Afana, David Habinsky, Judith Saenz
+John Afana, David Habinsky, Judith Saenz, Kenneth Berry
 
 Project:	We will construct a playable game using Unity for and will use C# for scripting all the game logic. Art and scripting assets will be chosen from those available free online or created by the team. We will give credit where it is due. Each team member will contribute to the foundation mechanics and logic of the game as well as the finished project based.
 Game details: We will build a space shooter where the player controls a ship as it travels through space destroying obstacles and enemies in their path and avoiding enemy weapons fire and invincible obstacles. The player ship will have weapons as well as mining tools used to get resources from destroyed asteroids as well as scraps from other ships. Other ships will include pirates, or authorities considering your cargo as contraband. Players will earn points to build a high score, and collect currency that they can use to upgrade their ship’s capabilities. There will be several levels that each team member can develop.
