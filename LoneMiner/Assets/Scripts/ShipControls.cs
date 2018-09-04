@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class ShipControls : MonoBehaviour {
 
-    public Rigidbody rb;
+   
     public float thrust;
     public float rotateThrust;
     private float thrustInput;
     private float rotateInput;
+    private Rigidbody rb;
     Vector3 m_EulerAngleVelocity;
 
     // Use this for initialization
     void Start () {
+        rb = GetComponent <Rigidbody>();
        
 	}
 	
