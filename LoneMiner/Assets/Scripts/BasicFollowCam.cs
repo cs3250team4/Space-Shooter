@@ -1,23 +1,39 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿/*
+ * BasicFollowCam
+ * 
+ * A basic follow camera script that allows the camera to follow
+ * the GameObject named "Player".  Needs to be added as a component
+ * to the main scene camera.
+ * 
+ * Follows horizontal and verticle movements of "Player GameObject
+ * but does not rotate along with player.
+ * 
+ * Author(s):   Kenneth Berry
+ */
+
+using UnityEngine;
 
 public class BasicFollowCam : MonoBehaviour
 {
-    private GameObject player; // reference to the player game object
-    private Vector3 offset; // offset distance between the player and camera
+    private GameObject player;  // reference to the player game object
+    private Vector3 offset;     // offset distance between the player and camera
 
-    // initialization
+    /*
+     * Initialization
+     */
     void Start()
     {
-        // get Player object in scene
+        // Find "Player" GameObject in scene
         player = GameObject.Find("Player");
 
-        // Calculate and store the offset value by getting the distance
+        // Calculate the offset value by getting the distance
         // between the player's position and camera's position.
         offset = transform.position - player.transform.position;
     }
 
-    // LateUpdate is called after Update each frame
+    /*
+     * LateUpdate is called after Update each frame
+     */
     void LateUpdate()
     {
         // Set the position of the camera's transform to be the same as
