@@ -13,7 +13,7 @@ Game details: We will build a space shooter where the player controls a ship as 
 Additional features: (wish list)
 Multiple weapons/upgrades
 Different ships to choose from
-Missions? (miner or fighter contracts)
+Missions? (Botanical/biological sampling, miner or fighter contracts)
 Different Worlds- possible exploration of said Worlds
 Adventure vs Arcade Mode 
 Mobile deployment (android and or IOS)
