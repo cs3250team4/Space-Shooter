@@ -11,7 +11,7 @@
   *     rotate right -  D or Right-arrow
   *     
   * Author(s):  David Habinsky
-  *             Kenneth Berry (added comments)
+  *             Kenneth Berry
   */
 using UnityEngine;
 
@@ -22,7 +22,7 @@ public class ShipControls : MonoBehaviour
 
     private float thrustInput;          // keyboard input for thrust
     private float rotateInput;          // keyboard input for rotational thrust
-    private Rigidbody rb;               // Rigidbody component of player ship
+    private Rigidbody rb;               // Rigidbody component of player's ship
     private Vector3 eulerAngleVelocity; // Euler angle velocity of ship
 
     /*
@@ -57,5 +57,14 @@ public class ShipControls : MonoBehaviour
 
         // Rotate the ship's Rigidbody
         rb.MoveRotation(rb.rotation * deltaRotation);
+        
+        // Check if the player's ship has angular velocity on the y axis
+        if (rb.angularVelocity.y > 0)
+        { // Wait until the user rotates the ship
+            if (rotateInput != 0)
+            {  // Set angular velocity to 0 for X, Y, and Z axis
+                rb.angularVelocity = new Vector3(0.0f, 0.0f, 0.0f);
+            }
+        }
     }
 }
