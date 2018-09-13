@@ -59,7 +59,7 @@ public class ShipControls : MonoBehaviour
         rb.MoveRotation(rb.rotation * deltaRotation);
         
         // Check if the player's ship has angular velocity on the y axis
-        if (rb.angularVelocity.y > 0)
+        if (rb.angularVelocity.y != 0)
         { // Wait until the user rotates the ship
             if (rotateInput != 0)
             {  // Set angular velocity to 0 for X, Y, and Z axis
