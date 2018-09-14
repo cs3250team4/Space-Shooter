@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /*
- * author: Brackeys
+ * author: Asbjorn Thirslund
  * 
  */
 
