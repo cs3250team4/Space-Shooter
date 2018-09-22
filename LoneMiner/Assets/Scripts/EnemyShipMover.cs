@@ -15,12 +15,20 @@ public class EnemyShipMover : MonoBehaviour {
     public float tilt;
     public EnemyBoundary boundary;
     private Rigidbody rb;
+<<<<<<< HEAD
     //private AudioSource audioSource;    
+=======
+    private AudioSource audioSource;    
+>>>>>>> MissionTesting
 
     // Use this for initialization
     void Start () {
         rb = GetComponent<Rigidbody>();
+<<<<<<< HEAD
         //audioSource = GetComponent<AudioSource>();
+=======
+        audioSource = GetComponent<AudioSource>();
+>>>>>>> MissionTesting
 	}
 	
 	// Update is called once per frame
