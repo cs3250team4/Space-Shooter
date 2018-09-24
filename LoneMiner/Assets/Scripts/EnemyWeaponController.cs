@@ -13,6 +13,7 @@ public class EnemyWeaponController : MonoBehaviour
 {
 
     public GameObject shot;
+    public Transform centerLaser;
     public Transform leftLaser;
     public Transform rightLaser;
     public float fireRate;
@@ -28,8 +29,18 @@ public class EnemyWeaponController : MonoBehaviour
 
     void Fire()
     {
-        Instantiate(shot, leftLaser.position, leftLaser.rotation);
-        Instantiate(shot, rightLaser.position, rightLaser.rotation);
+        if(centerLaser != null)
+        {
+            Instantiate(shot, centerLaser.position, centerLaser.rotation);
+        }
+        if(leftLaser != null)
+        {
+            Instantiate(shot, leftLaser.position, leftLaser.rotation);
+        }
+        if(rightLaser != null)
+        {
+            Instantiate(shot, rightLaser.position, rightLaser.rotation);
+        }        
         audioSource.Play();
     }
 }
