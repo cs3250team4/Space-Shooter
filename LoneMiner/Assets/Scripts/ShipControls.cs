@@ -19,6 +19,7 @@ public class ShipControls : MonoBehaviour
 {
     public float thrust;                // forward or backwards force being applied
     public float rotateThrust;          // rotational force being applied
+    public float maxVelocity;           // maximum velocity of ship
 
     private float thrustInput;          // keyboard input for thrust
     private float rotateInput;          // keyboard input for rotational thrust
@@ -34,6 +35,12 @@ public class ShipControls : MonoBehaviour
 
         // Prevent positional movement along Y-axis and rotational movement along X-axis & Z-axis
         rb.constraints = RigidbodyConstraints.FreezePositionY | RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationZ;
+
+        // Set initial thrust multiplier
+        thrust = 1;
+
+        // Set maximum velocity
+        maxVelocity = 5;
 	}
 
 
@@ -46,9 +53,26 @@ public class ShipControls : MonoBehaviour
         thrustInput = Input.GetAxis("Vertical");
         rotateInput = Input.GetAxis("Horizontal");
         
-        // Add forward thrust to ships velocity vector
-        rb.AddRelativeForce(Vector3.forward * thrustInput * thrust);
-
+        // Check for thrust input
+        if (thrustInput != 0)
+        {  // Check if ship's velocity is less than max velocity
+            if (rb.velocity.magnitude <= maxVelocity)
+            {  // Add thrust to ship's velocity
+                rb.AddRelativeForce(Vector3.forward * thrustInput * thrust);
+            }
+        }
+        else  // there is no thrust input
+        {  // Check if ship's velocity is greater than 0.1
+            if (rb.velocity.magnitude > 0.1f)
+            {  // Decrease the ship's velocity if greater than 0.1
+                rb.velocity = rb.velocity * 0.99f;
+            }
+            else  // Velocity is greater than 0.1
+            {  // Set velocity to zero
+                rb.velocity = Vector3.zero;
+            }
+        }
+        
         // Calculate eular angle velocity
         eulerAngleVelocity = new Vector3(0.0f, rotateInput * rotateThrust, 0.0f);
 
