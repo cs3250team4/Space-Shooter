@@ -12,10 +12,26 @@ public class DestroyByContact : MonoBehaviour
 {
     public GameObject explosion;
     public GameObject playerExplosion;
+    public int enemiesDestroyed;
+    private MissionController missionController;
+
+    void Start()
+    {
+        GameObject missionControllerObject = GameObject.FindWithTag("GameController");
+        if(missionControllerObject != null)
+        {
+            missionController = missionControllerObject.GetComponent<MissionController>();
+        }
+        if(missionController == null)
+        {
+            Debug.Log("Cannot find 'MissionController' script");
+        }
+
+    }
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Boundary" || other.tag == "Enemy")
+        if (other.tag == "Boundary" || other.tag == "Enemy" || other.tag == "EnemyShot")
         {
             return;
         }
@@ -25,10 +41,27 @@ public class DestroyByContact : MonoBehaviour
         }        
         if (other.tag == "Player")
         {
-            Instantiate(playerExplosion, other.transform.position, other.transform.rotation);
-            //gameController.GameOver();
+            if (this.tag == "EnemyShot")
+            {
+                PlayerData.control.hullIntegrity -= 1;
+            }
+            if (this.tag == "Enemy")
+            {
+                PlayerData.control.hullIntegrity -= 100;
+            }
+            if (PlayerData.control.hullIntegrity <= 0)
+            {
+                PlayerData.control.hullIntegrity = 0;
+                Instantiate(playerExplosion, other.transform.position, other.transform.rotation);
+                Destroy(other.gameObject);
+                missionController.MissionFailed();
+            }
+
         }
-        Destroy(other.gameObject);
+        if(this.tag == "Enemy")
+        {
+            missionController.AddScore(1);
+        }
         Destroy(gameObject);
     }
 }
