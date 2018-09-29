@@ -9,6 +9,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class MissionController : MonoBehaviour {
 
@@ -19,8 +21,19 @@ public class MissionController : MonoBehaviour {
     public float startWait;
     public float waveWait;
 
+    private bool missionFailed;
+    private bool missionComplete;
+    private int score;
+    public int goal;
+
+    public GameObject text;
+
     void Start()
     {
+        Time.timeScale = 1;
+        missionFailed = false;
+        missionComplete = false;
+        score = 0;
         StartCoroutine(SpawnWaves());
     }
 
@@ -38,7 +51,40 @@ public class MissionController : MonoBehaviour {
                 yield return new WaitForSeconds(spawnWait);
             }
             yield return new WaitForSeconds(waveWait);
+            if (missionFailed || missionComplete)
+            {
+                break;
+            }
         }
     }
 
+    public void AddScore(int scoreValue)
+    {
+        score += scoreValue;
+        if(score >= goal)
+        {
+            MissionComplete();
+        }
+    }
+
+    public void MissionFailed()
+    {
+        missionFailed = true;
+        text.GetComponent<Text>().text = "MISSION FAILED";
+        StartCoroutine(Wait());
+    }
+
+    public void MissionComplete()
+    {
+        missionComplete = true;
+        text.GetComponent<Text>().text = "MISSION COMPLETE";
+        StartCoroutine(Wait());        
+    }
+
+    IEnumerator Wait()
+    {
+        yield return new WaitForSeconds(2.0f);
+        Time.timeScale = 0;
+        SceneManager.LoadScene("MainMenu");
+    }
 }
