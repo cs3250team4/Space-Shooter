@@ -4,17 +4,27 @@ using UnityEngine;
 
 public class Orbit : MonoBehaviour
 {
+    public GameObject orbitTarget;
+    public float orbitSpeed;
+
+    private Transform targetTransform;
 
 
 	// Use this for initialization
 	void Start ()
     {
-     
+        targetTransform = orbitTarget.GetComponent<Transform>();
+        orbitSpeed = 10;
 	}
 	
 	// Update is called once per frame
 	void Update ()
     {
-        transform.Rotate(Vector3.up, 1 * Time.deltaTime);
+        OrbitAround();
 	}
+
+    void OrbitAround ()
+    {
+        transform.RotateAround(targetTransform.position, Vector3.up, orbitSpeed * Time.deltaTime);
+    }
 }
