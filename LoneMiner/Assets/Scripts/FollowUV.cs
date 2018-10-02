@@ -12,7 +12,6 @@ public class FollowUV : MonoBehaviour
     // Use this for initialization
     void Start ()
     {
-        parallax = 500;
         mr = GetComponent<MeshRenderer>();
         mat = mr.material;
         offset = mat.mainTextureOffset;
@@ -21,8 +20,8 @@ public class FollowUV : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-        offset.x = transform.position.x / transform.localScale.x / parallax;
-        offset.y = transform.position.z / transform.localScale.z / parallax;
+        offset.x = transform.position.x / parallax;
+        offset.y = transform.position.z / parallax;
 
         mat.mainTextureOffset = offset;
     }

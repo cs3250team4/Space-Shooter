@@ -19,9 +19,9 @@ public class Planet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(Vector3.forward * Time.deltaTime * rotateSpeed);
+        transform.Rotate(Vector3.up * Time.deltaTime * rotateSpeed);
         if (centerOfMass != null) {
-            transform.RotateAround(centerOfMass.transform.position, centerOfMass.transform.forward, Time.deltaTime * rotateAroundSpeed);
+            transform.RotateAround(centerOfMass.transform.position, centerOfMass.transform.up, Time.deltaTime * rotateAroundSpeed);
         }
 
     }
