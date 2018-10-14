@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class StartMakemake : MonoBehaviour {
+public class StartMission5 : MonoBehaviour {
 
     void OnMouseDown()
     {

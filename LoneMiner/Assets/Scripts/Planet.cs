@@ -21,7 +21,7 @@ public class Planet : MonoBehaviour
     {
         transform.Rotate(Vector3.up * Time.deltaTime * rotateSpeed);
         if (centerOfMass != null) {
-            transform.RotateAround(centerOfMass.transform.position, centerOfMass.transform.up, Time.deltaTime * rotateAroundSpeed);
+            transform.RotateAround(centerOfMass.transform.position, Vector3.up, Time.deltaTime * rotateAroundSpeed);
         }
 
     }
