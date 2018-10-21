@@ -3,6 +3,8 @@
  * From Unity Tutorials:
  * https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial/creating-hazards?playlist=17147
  * https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial/explosions?playlist=17147
+ * 
+ * Modified by Joe Turner mailto:jturne48@msudenver.edu
  */
 
 using UnityEngine;
@@ -26,7 +28,6 @@ public class DestroyByContact : MonoBehaviour
         {
             Debug.Log("Cannot find 'MissionController' script");
         }
-
     }
 
     void OnTriggerEnter(Collider other)
