@@ -21,6 +21,7 @@ public class PlayerData : MonoBehaviour {
     public float hullIntegrity;
     public float maxShieldStrength;
     public float shieldStrength;
+    public float laserDamage;
 
     void Awake()
     {
@@ -46,9 +47,9 @@ public class PlayerData : MonoBehaviour {
 		
 	}
 
-    void OnGUI()
-    {
-        GUI.Label(new Rect(1, 1, 100, 20), "Shield: " + shieldStrength / maxShieldStrength * 100 + "%");
-        GUI.Label(new Rect(1, 18, 100, 20), "Hull: " + hullIntegrity / maxHullIntegrity * 100 + "%");
-    }
+    //void OnGUI()
+    //{
+    //    GUI.Label(new Rect(1, 1, 100, 20), "Shield: " + shieldStrength / maxShieldStrength * 100 + "%");
+    //    GUI.Label(new Rect(1, 18, 100, 20), "Hull: " + hullIntegrity / maxHullIntegrity * 100 + "%");
+    //}
 }

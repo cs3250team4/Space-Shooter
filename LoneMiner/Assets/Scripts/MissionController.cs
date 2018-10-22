@@ -3,7 +3,7 @@
  * From Unity Tutorial:
  * https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial/extending-space-shooter-enemies-more-hazards?playlist=17147
  * 
- * Modifieded by Joe Turner mailto:jturne48@msudenver.edu
+ * Modified by Joe Turner mailto:jturne48@msudenver.edu
  */
 
 using System.Collections;
