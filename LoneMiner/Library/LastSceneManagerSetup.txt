@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Planetary.unity
-=======
-- path: Assets/Scenes/MissionTesting.unity
->>>>>>> Dev
+- path: Assets/Scenes/DotE.unity
   isLoaded: 1
   isActive: 1

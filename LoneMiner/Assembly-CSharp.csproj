@@ -75,6 +75,13 @@
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerList.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs" />
+     <Compile Include="Assets\Pack Collections\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
+     <Compile Include="Assets\Pack Collections\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
+     <Compile Include="Assets\Pack Collections\EffectExamples\Shared\Scripts\GunAim.cs" />
+     <Compile Include="Assets\Pack Collections\EffectExamples\Shared\Scripts\GunShoot.cs" />
+     <Compile Include="Assets\Pack Collections\EffectExamples\Shared\Scripts\ParticleCollision.cs" />
+     <Compile Include="Assets\Pack Collections\EffectExamples\Shared\Scripts\ParticleExamples.cs" />
+     <Compile Include="Assets\Pack Collections\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\NetworkAsteroid.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\NetworkGameManager.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\NetworkLobbyHook.cs" />
@@ -102,6 +109,7 @@
      <Compile Include="Assets\Scripts\EnemyWeaponController.cs" />
      <Compile Include="Assets\Scripts\ExitGame.cs" />
      <Compile Include="Assets\Scripts\Follow.cs" />
+     <Compile Include="Assets\Scripts\FollowUV.cs" />
      <Compile Include="Assets\Scripts\HUD.cs" />
      <Compile Include="Assets\Scripts\Inventory.cs" />
      <Compile Include="Assets\Scripts\InventoryMenuManager.cs" />
@@ -110,39 +118,51 @@
      <Compile Include="Assets\Scripts\Mover.cs" />
      <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\OptionsMenuInventory.cs" />
+     <Compile Include="Assets\Scripts\Orbit.cs" />
      <Compile Include="Assets\Scripts\PanelManager.cs" />
-<<<<<<< HEAD
+     <Compile Include="Assets\Scripts\PixelMakeScripts\Asteroid_Field.cs" />
+     <Compile Include="Assets\Scripts\PixelMakeScripts\Bullet_Control.cs" />
+     <Compile Include="Assets\Scripts\PixelMakeScripts\Explosion_Controller.cs" />
+     <Compile Include="Assets\Scripts\PixelMakeScripts\PixelMake_AstroidController.cs" />
+     <Compile Include="Assets\Scripts\PixelMakeScripts\ShipControl.cs" />
+     <Compile Include="Assets\Scripts\PixelMakeScripts\UI_Controller.cs" />
      <Compile Include="Assets\Scripts\Planet.cs" />
-=======
      <Compile Include="Assets\Scripts\PlayerData.cs" />
->>>>>>> Dev
      <Compile Include="Assets\Scripts\RandomRotator.cs" />
      <Compile Include="Assets\Scripts\ResizePanel.cs" />
      <Compile Include="Assets\Scripts\Scroll.cs" />
      <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
+     <Compile Include="Assets\Scripts\ScrollUV.cs" />
      <Compile Include="Assets\Scripts\SelectOnInput.cs" />
      <Compile Include="Assets\Scripts\ShipControls.cs" />
      <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
-<<<<<<< HEAD
-     <Compile Include="Assets\Scripts\SolarSystemPlayerControl.cs" />
-=======
      <Compile Include="Assets\Scripts\SideScrollPlayerController.cs" />
->>>>>>> Dev
+     <Compile Include="Assets\Scripts\SolarSystemParallax.cs" />
+     <Compile Include="Assets\Scripts\SolarSystemPlayerControl.cs" />
+     <Compile Include="Assets\Scripts\Spin.cs" />
      <Compile Include="Assets\Scripts\StartButton.cs" />
+     <Compile Include="Assets\Scripts\StartMission1.cs" />
+     <Compile Include="Assets\Scripts\StartMission2.cs" />
+     <Compile Include="Assets\Scripts\StartMission3.cs" />
+     <Compile Include="Assets\Scripts\StartMission4.cs" />
+     <Compile Include="Assets\Scripts\StartMission5.cs" />
+     <Compile Include="Assets\Scripts\StartMission6.cs" />
+     <Compile Include="Assets\Scripts\StartMission7.cs" />
      <Compile Include="Assets\Scripts\ThrusterTriggerBackward.cs" />
      <Compile Include="Assets\Scripts\ThrusterTriggerForward.cs" />
      <Compile Include="Assets\Scripts\ThrusterTriggerLeft.cs" />
      <Compile Include="Assets\Scripts\ThrusterTriggerRight.cs" />
      <Compile Include="Assets\Scripts\TiltWindow.cs" />
      <Compile Include="Assets\Scripts\TopDownPlayerController.cs" />
-     <Compile Include="Assets\SolarSystemParallax.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+     <None Include="Assets\Pack Collections\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
      <None Include="Assets\Lobby\Documentation.txt" />
      <None Include="Assets\Lobby\Instruction.txt" />
      <None Include="Assets\Fonts\Jupiter\LICENSE.txt" />
      <None Include="Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
      <None Include="Assets\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Materials\UI-Default-No-Alpha.shader" />
+     <None Include="Assets\Pack Collections\SpaceShipPack\READ ME!.txt" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/jet71/Documents/Unity Projects/Space-Shooter/LoneMiner/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
