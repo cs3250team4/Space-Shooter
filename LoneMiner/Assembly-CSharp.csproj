@@ -110,7 +110,11 @@
      <Compile Include="Assets\Scripts\MissionController.cs" />
      <Compile Include="Assets\Scripts\Mover.cs" />
      <Compile Include="Assets\Scripts\PanelManager.cs" />
+<<<<<<< HEAD
+     <Compile Include="Assets\Scripts\Planet.cs" />
+=======
      <Compile Include="Assets\Scripts\PlayerData.cs" />
+>>>>>>> Dev
      <Compile Include="Assets\Scripts\RandomRotator.cs" />
      <Compile Include="Assets\Scripts\ResizePanel.cs" />
      <Compile Include="Assets\Scripts\Scroll.cs" />
@@ -118,7 +122,11 @@
      <Compile Include="Assets\Scripts\SelectOnInput.cs" />
      <Compile Include="Assets\Scripts\ShipControls.cs" />
      <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
+<<<<<<< HEAD
+     <Compile Include="Assets\Scripts\SolarSystemPlayerControl.cs" />
+=======
      <Compile Include="Assets\Scripts\SideScrollPlayerController.cs" />
+>>>>>>> Dev
      <Compile Include="Assets\Scripts\StartButton.cs" />
      <Compile Include="Assets\Scripts\ThrusterTriggerBackward.cs" />
      <Compile Include="Assets\Scripts\ThrusterTriggerForward.cs" />
@@ -126,6 +134,7 @@
      <Compile Include="Assets\Scripts\ThrusterTriggerRight.cs" />
      <Compile Include="Assets\Scripts\TiltWindow.cs" />
      <Compile Include="Assets\Scripts\TopDownPlayerController.cs" />
+     <Compile Include="Assets\SolarSystemParallax.cs" />
      <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
      <None Include="Assets\Lobby\Documentation.txt" />
      <None Include="Assets\Lobby\Instruction.txt" />
