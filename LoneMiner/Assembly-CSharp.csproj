@@ -63,7 +63,6 @@
      <Compile Include="Assets\_Complete-Game\Scripts\Done_PlayerController.cs" />
      <Compile Include="Assets\_Complete-Game\Scripts\Done_RandomRotator.cs" />
      <Compile Include="Assets\_Complete-Game\Scripts\Done_WeaponController.cs" />
-     <Compile Include="Assets\InventoryMenuManager.cs" />
      <Compile Include="Assets\Lobby\Scripts\DraggablePanel.cs" />
      <Compile Include="Assets\Lobby\Scripts\EventSystemChecker.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs" />
@@ -76,8 +75,6 @@
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerList.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs" />
-     <Compile Include="Assets\NewBehaviourScript.cs" />
-     <Compile Include="Assets\OptionsMenuInventory.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\NetworkAsteroid.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\NetworkGameManager.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\NetworkLobbyHook.cs" />
@@ -95,9 +92,9 @@
      <Compile Include="Assets\Scripts\DestroyByBoundary.cs" />
      <Compile Include="Assets\Scripts\DestroyByContact.cs" />
      <Compile Include="Assets\Scripts\DestroyByTime.cs" />
-     <Compile Include="Assets\Scripts\DotE.cs" />
-     <Compile Include="Assets\Scripts\DotEAsteroids.cs" />
-     <Compile Include="Assets\Scripts\DotEMissionController.cs" />
+     <Compile Include="Assets\Scripts\DotE\DotE.cs" />
+     <Compile Include="Assets\Scripts\DotE\DotEAsteroids.cs" />
+     <Compile Include="Assets\Scripts\DotE\DotEMissionController.cs" />
      <Compile Include="Assets\Scripts\DragMe.cs" />
      <Compile Include="Assets\Scripts\DragPanel.cs" />
      <Compile Include="Assets\Scripts\DropMe.cs" />
@@ -105,10 +102,14 @@
      <Compile Include="Assets\Scripts\EnemyWeaponController.cs" />
      <Compile Include="Assets\Scripts\ExitGame.cs" />
      <Compile Include="Assets\Scripts\Follow.cs" />
+     <Compile Include="Assets\Scripts\HUD.cs" />
      <Compile Include="Assets\Scripts\Inventory.cs" />
+     <Compile Include="Assets\Scripts\InventoryMenuManager.cs" />
      <Compile Include="Assets\Scripts\Item.cs" />
      <Compile Include="Assets\Scripts\MissionController.cs" />
      <Compile Include="Assets\Scripts\Mover.cs" />
+     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
+     <Compile Include="Assets\Scripts\OptionsMenuInventory.cs" />
      <Compile Include="Assets\Scripts\PanelManager.cs" />
 <<<<<<< HEAD
      <Compile Include="Assets\Scripts\Planet.cs" />

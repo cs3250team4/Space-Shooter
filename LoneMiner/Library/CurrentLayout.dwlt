@@ -120,10 +120,14 @@ MonoBehaviour:
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
 <<<<<<< HEAD
+  controlID: 8789
+=======
+<<<<<<< HEAD
   controlID: 6410
 >>>>>>> Dev
 =======
   controlID: 949
+>>>>>>> Dev
 >>>>>>> Dev
 --- !u!114 &6
 MonoBehaviour:
@@ -155,10 +159,14 @@ MonoBehaviour:
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
 <<<<<<< HEAD
+  controlID: 8790
+=======
+<<<<<<< HEAD
   controlID: 6411
 >>>>>>> Dev
 =======
   controlID: 950
+>>>>>>> Dev
 >>>>>>> Dev
 --- !u!114 &7
 MonoBehaviour:
@@ -184,6 +192,9 @@ MonoBehaviour:
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
 <<<<<<< HEAD
+  controlID: 8841
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 8043
 =======
@@ -191,6 +202,7 @@ MonoBehaviour:
 >>>>>>> Dev
 =======
   controlID: 951
+>>>>>>> Dev
 >>>>>>> Dev
 --- !u!114 &8
 MonoBehaviour:
@@ -443,6 +455,11 @@ MonoBehaviour:
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+    m_SelectedIDs: 2a2e0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 5ef6f8ff6284fcff2087fcff2efdfeff1acaffffdcfbffffdefbffff000000005e32000036480000ce590000f6590000
+=======
+<<<<<<< HEAD
     m_SelectedIDs: b2fefcff
     m_LastClickedID: -196942
     m_ExpandedIDs: b0fefcffb2fefcfffefffcffe0fbffff000000001c32000038320000
@@ -454,6 +471,7 @@ MonoBehaviour:
 >>>>>>> Dev
 =======
     m_ExpandedIDs: 30d4feffcafbffff00000000
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -678,16 +696,22 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\jet71\Documents\Unity Projects\Space-Shooter\LoneMiner
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
+    scrollPos: {x: 0, y: 219}
+    m_SelectedIDs: 4c300000
+    m_LastClickedID: 12364
+    m_ExpandedIDs: 00000000942a00003c2b0000062c0000562c00004c300000723400007434000000ca9a3b
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 71}
@@ -705,6 +729,7 @@ MonoBehaviour:
     m_SelectedIDs: de2c0000
     m_LastClickedID: 11486
     m_ExpandedIDs: 00000000a02a0000482b0000122c0000622c0000962d000018300000c6320000c832000000ca9a3b
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -734,6 +759,9 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+    m_ExpandedIDs: 00000000942a00003c2b0000062c0000562c00004c300000723400007434000000ca9a3b
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_ExpandedIDs: 000000007e2a0000f22a0000142b0000e42b0000fc2b0000322c0000762d00000a3000007432000076320000783200007a3200007c3200007e32000000ca9a3b
 =======
@@ -741,6 +769,7 @@ MonoBehaviour:
 >>>>>>> Dev
 =======
     m_ExpandedIDs: 00000000a02a0000482b0000122c0000622c0000962d000018300000c6320000c832000000ca9a3b
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -776,10 +805,14 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
 <<<<<<< HEAD
+    m_ExpandedInstanceIDs: c6230000342d0000ca2a0000962f0000422b0000a2fcfeff5200ffff6a68feff222e00007e2e0000c42a00002a2e0000
+=======
+<<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000342d0000
 >>>>>>> Dev
 =======
     m_ExpandedInstanceIDs: c6230000342d0000ca2a0000962f0000422b0000a2fcfeff5200ffff6a68feff
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0

@@ -30,10 +30,14 @@ MonoBehaviour:
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
 <<<<<<< HEAD
+  controlID: 8328
+=======
+<<<<<<< HEAD
   controlID: 6256
 >>>>>>> Dev
 =======
   controlID: 750
+>>>>>>> Dev
 >>>>>>> Dev
 --- !u!114 &2
 MonoBehaviour:
@@ -160,10 +164,14 @@ MonoBehaviour:
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
 <<<<<<< HEAD
+  controlID: 8329
+=======
+<<<<<<< HEAD
   controlID: 6257
 >>>>>>> Dev
 =======
   controlID: 751
+>>>>>>> Dev
 >>>>>>> Dev
 --- !u!114 &4
 MonoBehaviour:
@@ -189,6 +197,9 @@ MonoBehaviour:
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
 <<<<<<< HEAD
+  controlID: 8291
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 7839
 =======
@@ -196,6 +207,7 @@ MonoBehaviour:
 >>>>>>> Dev
 =======
   controlID: 714
+>>>>>>> Dev
 >>>>>>> Dev
 --- !u!114 &5
 MonoBehaviour:
@@ -343,9 +355,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2ed4feff
-    m_LastClickedID: -76754
-    m_ExpandedIDs: 30d4feffcafbffff00000000
+    m_SelectedIDs: 2a2e0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 5ef6f8ff6284fcff2087fcff2efdfeff1acaffffdcfbffffdefbffff000000005e32000036480000ce590000f6590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +376,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
   m_ExpandedScenes:
-  - DotE
+  - MissionTesting
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -387,8 +399,8 @@ MonoBehaviour:
     y: 0
     width: 815
     height: 364
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 8}
@@ -627,6 +639,13 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+    - Assets/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scripts
+=======
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -639,11 +658,18 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
 >>>>>>> Dev
+>>>>>>> Dev
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\jet71\Documents\Unity Projects\Space-Shooter\LoneMiner
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
+    scrollPos: {x: 0, y: 219}
+    m_SelectedIDs: 4c300000
+    m_LastClickedID: 12364
+    m_ExpandedIDs: 00000000942a00003c2b0000062c0000562c00004c300000723400007434000000ca9a3b
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 71}
@@ -661,6 +687,7 @@ MonoBehaviour:
     m_SelectedIDs: de2c0000
     m_LastClickedID: 11486
     m_ExpandedIDs: 00000000a02a0000482b0000122c0000622c0000962d000018300000c6320000c832000000ca9a3b
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -690,6 +717,9 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+    m_ExpandedIDs: 00000000942a00003c2b0000062c0000562c00004c300000723400007434000000ca9a3b
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_ExpandedIDs: 000000007e2a0000f22a0000142b0000e42b0000fc2b0000322c0000762d00000a3000007432000076320000783200007a3200007c3200007e32000000ca9a3b
 =======
@@ -697,6 +727,7 @@ MonoBehaviour:
 >>>>>>> Dev
 =======
     m_ExpandedIDs: 00000000a02a0000482b0000122c0000622c0000962d000018300000c6320000c832000000ca9a3b
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -723,6 +754,12 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+    m_SelectedInstanceIDs: 2a2e0000
+    m_LastClickedInstanceID: 11818
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000342d0000ca2a0000962f0000422b0000a2fcfeff5200ffff6a68feff222e00007e2e0000c42a00002a2e0000
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedInstanceIDs: 10320000
     m_LastClickedInstanceID: 12816
@@ -739,6 +776,7 @@ MonoBehaviour:
     m_LastClickedInstanceID: -76754
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000342d0000ca2a0000962f0000422b0000a2fcfeff5200ffff6a68feff
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
