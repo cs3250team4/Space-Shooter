@@ -84,7 +84,9 @@ public class MissionController : MonoBehaviour {
     IEnumerator Wait()
     {
         yield return new WaitForSeconds(2.0f);
-        Time.timeScale = 0;
-        SceneManager.LoadScene("MainMenu");
+        //Time.timeScale = 0;
+        SceneManager.LoadScene("OverWorld");
+        //SceneManager.LoadScene("OverWorld", LoadSceneMode.Additive);
+        //SceneManager.SetActiveScene(SceneManager.GetSceneByName("OverWorld"));
     }
 }

@@ -35,21 +35,4 @@ public class PlayerData : MonoBehaviour {
             Destroy(gameObject);
         }
     }
-
-	// Use this for initialization
-	void Start () {
-        
-
-    }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-
-    //void OnGUI()
-    //{
-    //    GUI.Label(new Rect(1, 1, 100, 20), "Shield: " + shieldStrength / maxShieldStrength * 100 + "%");
-    //    GUI.Label(new Rect(1, 18, 100, 20), "Hull: " + hullIntegrity / maxHullIntegrity * 100 + "%");
-    //}
 }

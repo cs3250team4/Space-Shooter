@@ -29,12 +29,12 @@ public class BoltMover : MonoBehaviour {
         Destroy(gameObject, 2);
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag == "Asteroid") ;
-        {
-            collision.transform.GetComponent<PixelMake_AstroidController>().stats.currentHealth -= damage;
-            Destroy(gameObject);
-        }
-    }
+    //private void OnCollisionEnter(Collision collision)
+    //{
+    //    if (collision.gameObject.tag == "Asteroid") ;
+    //    {
+    //        collision.transform.GetComponent<PixelMake_AstroidController>().stats.currentHealth -= damage;
+    //        Destroy(gameObject);
+    //    }
+    //}
 }
