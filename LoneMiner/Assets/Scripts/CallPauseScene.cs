@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/* https://docs.unity3d.com/ScriptReference/Application.LoadLevelAdditive.html
+ * Core code from https://www.youtube.com/watch?v=Drb61_C8-SQ
+ * Modified:
+ * Pete Fennell version 10202018
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,7 +20,7 @@ public class CallPauseScene : MonoBehaviour {
         if(Input.GetKeyDown(KeyCode.Escape))
         {
             Time.timeScale = 0;
-            Application.LoadLevelAdditive(4);
+            Application.LoadLevelAdditive("pauseMenu");
 
         }
 		
