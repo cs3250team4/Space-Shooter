@@ -13,17 +13,17 @@ using UnityEngine;
 public class ExploreModeData : MonoBehaviour
 {
     // the static class
-    private static ExploreModeData data;
+    public static ExploreModeData data;
 
     // explore mode player variables
-    private Vector3 playerPosition;
-    private Quaternion playerRotation;
+    public Vector3 playerPosition;
+    public Quaternion playerRotation;
 
     // explore mode planet array
     public GameObject[] planets;
-    private string[] planetNames;
-    private Vector3[] planetPositions;
-    private Quaternion[] planetRotations;
+    public string[] planetNames;
+    public Vector3[] planetPositions;
+    public Quaternion[] planetRotations;
 
     void Awake()
     {

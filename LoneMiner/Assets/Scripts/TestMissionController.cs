@@ -27,6 +27,7 @@ public class TestMissionController : MonoBehaviour
         missionFailed = false;
         missionComplete = false;
         score = 0;
+        goal = 1;
         StartCoroutine(SpawnWaves());
     }
 
@@ -44,6 +45,7 @@ public class TestMissionController : MonoBehaviour
                 yield return new WaitForSeconds(spawnWait);
             }
             yield return new WaitForSeconds(waveWait);
+            AddScore(1);
             if (missionFailed || missionComplete)
             {
                 break;
