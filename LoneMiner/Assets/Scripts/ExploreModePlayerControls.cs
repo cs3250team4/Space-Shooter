@@ -29,7 +29,7 @@ public class ExploreModePlayerControls : MonoBehaviour
     private ParticleSystem radiation;   // radiation particle system of player's ship
     private float thrustInput;          // keyboard input for thrust
     private float rotateInput;          // keyboard input for rotational thrust
-    private Rigidbody rb;               // Rigidbody component of player's ship
+    public Rigidbody rb;               // Rigidbody component of player's ship
     private Vector3 eulerAngleVelocity; // Euler angle velocity of ship
 
     /*
@@ -113,6 +113,11 @@ public class ExploreModePlayerControls : MonoBehaviour
         {
             radiation.Stop();
         }
+
+    }
+
+    void LateUpdate()
+    {
         // update player position in ExploreModeData for presisting between scenes
         ExploreModeData.data.playerPosition = rb.transform.position;
         // update player rotation in ExploreModeData for presisting between scenes

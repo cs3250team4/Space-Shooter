@@ -41,8 +41,8 @@ public class ExploreModeData : MonoBehaviour
     void Start()
     {
         GameObject player = GameObject.Find("ExploreMode_Player");
-        playerPosition = player.GetComponent<Rigidbody>().transform.position;
-        playerRotation = player.GetComponent<Rigidbody>().transform.rotation;
+        playerPosition = player.GetComponent<Rigidbody>().transform.position = playerPosition;
+        playerRotation = player.GetComponent<Rigidbody>().transform.rotation = playerRotation;
 
         planetNames = new string[planets.Length];
         planetPositions = new Vector3[planets.Length];
@@ -57,12 +57,13 @@ public class ExploreModeData : MonoBehaviour
             }
     }
 
-    void FixedUpdate()
+    void LateUpdate()
     {
         // if the explore mode player is present in the scene (meaning we are in the explore mode)
         // this code persists through all scenes but we don't want this to happen in scenes other than the overworld
         if (GameObject.Find("ExploreMode_Player"))
         {
+            // update player data
             GameObject player = GameObject.Find("ExploreMode_Player");
             if (playerPosition != null)
             {
@@ -73,7 +74,7 @@ public class ExploreModeData : MonoBehaviour
                 player.GetComponent<Rigidbody>().transform.rotation = playerRotation;
             }
         }
-
+        // update planet data
         for (int i = 0; i < planetNames.Length; i++)
         {
             if (GameObject.Find(planetNames[i]))

@@ -24,7 +24,7 @@ public class ExploreModePlanet : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void LateUpdate()
     {
         // rotate the planet
         transform.Rotate(Vector3.up * Time.deltaTime * rotateSpeed);
