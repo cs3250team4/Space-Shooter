@@ -126,6 +126,7 @@
     <Compile Include="Assets\Scripts\ExploreModeMissionLaunch.cs" />
     <Compile Include="Assets\Scripts\ExploreModePlanet.cs" />
     <Compile Include="Assets\Scripts\ExploreModePlayerControls.cs" />
+    <Compile Include="Assets\Scripts\ExploreModeRadiation.cs" />
     <Compile Include="Assets\Scripts\Follow.cs" />
     <Compile Include="Assets\Scripts\FollowUV.cs" />
     <Compile Include="Assets\Scripts\HUD.cs" />
@@ -170,6 +171,7 @@
     <Compile Include="Assets\Scripts\ThrusterTriggerRight.cs" />
     <Compile Include="Assets\Scripts\TiltWindow.cs" />
     <Compile Include="Assets\Scripts\TopDownPlayerController.cs" />
+    <Compile Include="Assets\Scripts\TopDownPlayerL3.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <None Include="Assets\Pack Collections\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
     <None Include="Assets\Lobby\Documentation.txt" />

@@ -4,3 +4,4 @@
 /LoneMiner/Assembly-CSharp-firstpass.csproj
 /LoneMiner/Assembly-CSharp-Editor.csproj
 /LoneMiner/Temp/*
+*.meta

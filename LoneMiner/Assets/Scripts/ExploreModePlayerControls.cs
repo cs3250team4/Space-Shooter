@@ -24,9 +24,6 @@ public class ExploreModePlayerControls : MonoBehaviour
     public float thrust;                // forward or backwards force being applied
     public float rotateThrust;          // rotational force being applied
     public float maxVelocity;           // maximum velocity of ship
-    public float maxDistance;           // maximum distance the ship can travel before radiation damage
-
-    private ParticleSystem radiation;   // radiation particle system of player's ship
     private float thrustInput;          // keyboard input for thrust
     private float rotateInput;          // keyboard input for rotational thrust
     public Rigidbody rb;               // Rigidbody component of player's ship
@@ -37,10 +34,6 @@ public class ExploreModePlayerControls : MonoBehaviour
      */
     void Start()
     {
-        // Get the Radiation particle system for the player's ship
-        radiation = transform.GetChild(0).GetComponent<ParticleSystem>();
-        radiation.Stop();
-
         // Get the Rigidbody component of player's ship
         rb = GetComponent<Rigidbody>();
 
@@ -53,7 +46,6 @@ public class ExploreModePlayerControls : MonoBehaviour
         // Set maximum velocity
         maxVelocity = 5;
     }
-
 
     /*
      * Update is called once per frame
@@ -101,19 +93,6 @@ public class ExploreModePlayerControls : MonoBehaviour
                 rb.angularVelocity = new Vector3(0.0f, 0.0f, 0.0f);
             }
         }
-
-        if(transform.position.x > maxDistance
-                || transform.position.x < -maxDistance
-                || transform.position.z > maxDistance
-                || transform.position.z < -maxDistance)
-        {
-            radiation.Play();
-        }
-        else if(radiation.isPlaying)
-        {
-            radiation.Stop();
-        }
-
     }
 
     void LateUpdate()
