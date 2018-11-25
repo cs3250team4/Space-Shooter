@@ -15,15 +15,18 @@ public class ExploreModeData : MonoBehaviour
     // the static class
     public static ExploreModeData data;
 
-    // explore mode player variables
+    // explore mode player data
     public Vector3 playerPosition;
     public Quaternion playerRotation;
+    public Vector3 playerEulerAngleVelocity;
+    public Quaternion playerDeltaRotation;
 
-    // explore mode planet array
+    // explore mode planet data
     public GameObject[] planets;
     public string[] planetNames;
     public Vector3[] planetPositions;
     public Quaternion[] planetRotations;
+
 
     void Awake()
     {
@@ -41,8 +44,10 @@ public class ExploreModeData : MonoBehaviour
     void Start()
     {
         GameObject player = GameObject.Find("ExploreMode_Player");
-        playerPosition = player.GetComponent<Rigidbody>().transform.position = playerPosition;
-        playerRotation = player.GetComponent<Rigidbody>().transform.rotation = playerRotation;
+        playerPosition = player.GetComponent<Rigidbody>().transform.position;
+        playerRotation = player.GetComponent<Rigidbody>().transform.rotation;
+        playerEulerAngleVelocity = player.GetComponent<ExploreModePlayerControls>().eulerAngleVelocity;
+        playerDeltaRotation = player.GetComponent<ExploreModePlayerControls>().deltaRotation;
 
         planetNames = new string[planets.Length];
         planetPositions = new Vector3[planets.Length];
@@ -72,6 +77,14 @@ public class ExploreModeData : MonoBehaviour
             if (playerRotation != null)
             {
                 player.GetComponent<Rigidbody>().transform.rotation = playerRotation;
+            }
+            if (playerEulerAngleVelocity != null)
+            {
+                player.GetComponent<ExploreModePlayerControls>().eulerAngleVelocity = playerEulerAngleVelocity;
+            }
+            if (playerDeltaRotation != null)
+            {
+                player.GetComponent<ExploreModePlayerControls>().deltaRotation = playerDeltaRotation;
             }
         }
         // update planet data

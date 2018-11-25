@@ -27,7 +27,8 @@ public class ExploreModePlayerControls : MonoBehaviour
     private float thrustInput;          // keyboard input for thrust
     private float rotateInput;          // keyboard input for rotational thrust
     public Rigidbody rb;               // Rigidbody component of player's ship
-    private Vector3 eulerAngleVelocity; // Euler angle velocity of ship
+    public Vector3 eulerAngleVelocity; // Euler angle velocity of ship
+    public Quaternion deltaRotation;
 
     /*
      * Initialization
@@ -55,7 +56,7 @@ public class ExploreModePlayerControls : MonoBehaviour
         //Check for keyboard input.
         thrustInput = Input.GetAxis("Vertical");
         rotateInput = Input.GetAxis("Horizontal");
-
+   
         // Check for thrust input
         if (thrustInput != 0)
         {  // Check if ship's velocity is less than max velocity
@@ -75,12 +76,12 @@ public class ExploreModePlayerControls : MonoBehaviour
                 rb.velocity = Vector3.zero;
             }
         }
-
+   
         // Calculate eular angle velocity
         eulerAngleVelocity = new Vector3(0.0f, rotateInput * rotateThrust, 0.0f);
 
         // Calculate change in rotation for time since last frame
-        Quaternion deltaRotation = Quaternion.Euler(eulerAngleVelocity * Time.deltaTime);
+        deltaRotation = Quaternion.Euler(eulerAngleVelocity * Time.deltaTime);
 
         // Rotate the ship's Rigidbody
         rb.MoveRotation(rb.rotation * deltaRotation);
@@ -101,5 +102,9 @@ public class ExploreModePlayerControls : MonoBehaviour
         ExploreModeData.data.playerPosition = rb.transform.position;
         // update player rotation in ExploreModeData for presisting between scenes
         ExploreModeData.data.playerRotation = rb.transform.rotation;
+        // update player position in ExploreModeData for presisting between scenes
+        ExploreModeData.data.playerEulerAngleVelocity = eulerAngleVelocity;
+        // update player rotation in ExploreModeData for presisting between scenes
+        ExploreModeData.data.playerDeltaRotation = deltaRotation;
     }
 }
