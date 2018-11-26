@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/MissionL3.unity
+- path: Assets/Scenes/IcePlanetMission.unity
   isLoaded: 1
   isActive: 1
