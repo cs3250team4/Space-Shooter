@@ -15,6 +15,7 @@ using UnityEngine;
 
 public class ExploreModeCamera : MonoBehaviour
 {
+    public int height;
     private GameObject player;  // reference to the player game object
     private Vector3 offset;     // offset distance between the player and camera
 
@@ -25,6 +26,7 @@ public class ExploreModeCamera : MonoBehaviour
     {
         // Find "Player" GameObject in scene
         player = GameObject.Find("ExploreMode_Player");
+        offset = Vector3.up * height;
     }
 
     /*

@@ -21,10 +21,10 @@ public class ExploreModePlanet : MonoBehaviour
     {
         // get planet's rigidbody component
         rb = GetComponent<Rigidbody>();
+        rb.constraints = RigidbodyConstraints.FreezePositionY;
     }
 
-    // Update is called once per frame
-    void LateUpdate()
+    private void Update()
     {
         // rotate the planet
         transform.Rotate(Vector3.up * Time.deltaTime * rotateSpeed);
@@ -34,6 +34,12 @@ public class ExploreModePlanet : MonoBehaviour
             // rotate around the center of mass
             transform.RotateAround(centerOfMass.transform.position, Vector3.up, Time.deltaTime * rotateAroundSpeed);
         }
+    }
+
+    // Update is called once per frame
+    void LateUpdate()
+    {
+        
         int index = -1;
         for (int i = 0; i < ExploreModeData.data.planetPositions.Length; i++)
         {
