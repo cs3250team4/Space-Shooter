@@ -53,7 +53,6 @@
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
-/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StandardEvents.dll
@@ -174,8 +173,6 @@
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
-/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
-/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
@@ -250,3 +247,4 @@
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/obj/Debug/Assembly-CSharp.csproj.CopyComplete
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/obj/Debug/Assembly-CSharp.dll
 /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/obj/Debug/Assembly-CSharp.pdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Facebook.Unity.Settings.dll

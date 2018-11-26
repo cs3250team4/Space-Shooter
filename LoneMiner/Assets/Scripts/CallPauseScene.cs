@@ -21,7 +21,7 @@ public class CallPauseScene : MonoBehaviour {
         {
             Time.timeScale = 0;
             Application.LoadLevelAdditive("pauseMenu");
-
+            //Application.LoadLevelAdditive(3);
         }
 		
 	}

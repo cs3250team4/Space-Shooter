@@ -11,10 +11,7 @@ using UnityEngine;
 
 public class CanvasInPauseMenue : MonoBehaviour
 {
-    public OptionsMenuInventory optionsMenu;
-    
-
-    // Use this for initialization
+    PauseScene optionsMenu;
     void Start()
     {
 
@@ -26,7 +23,7 @@ public class CanvasInPauseMenue : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKeyDown(KeyCode.I))
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
             optionsMenu.gameObject.SetActive(!optionsMenu.gameObject.activeSelf);
             if (Input.GetKeyDown(KeyCode.Escape))
