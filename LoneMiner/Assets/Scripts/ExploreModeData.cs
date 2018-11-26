@@ -27,7 +27,6 @@ public class ExploreModeData : MonoBehaviour
     public Vector3[] planetPositions;
     public Quaternion[] planetRotations;
 
-
     void Awake()
     {
         if (data == null)
@@ -44,10 +43,10 @@ public class ExploreModeData : MonoBehaviour
     void Start()
     {
         GameObject player = GameObject.Find("ExploreMode_Player");
-        playerPosition = player.GetComponent<Rigidbody>().transform.position;
-        playerRotation = player.GetComponent<Rigidbody>().transform.rotation;
-        playerEulerAngleVelocity = player.GetComponent<ExploreModePlayerControls>().eulerAngleVelocity;
-        playerDeltaRotation = player.GetComponent<ExploreModePlayerControls>().deltaRotation;
+        playerPosition = ExploreModePlayerControls.player.rb.transform.position;
+        playerRotation = ExploreModePlayerControls.player.rb.transform.rotation;
+        playerEulerAngleVelocity = ExploreModePlayerControls.player.eulerAngleVelocity;
+        playerDeltaRotation = ExploreModePlayerControls.player.deltaRotation;
 
         planetNames = new string[planets.Length];
         planetPositions = new Vector3[planets.Length];
@@ -62,7 +61,7 @@ public class ExploreModeData : MonoBehaviour
             }
     }
 
-    void LateUpdate()
+    void FixedUpdate()
     {
         // if the explore mode player is present in the scene (meaning we are in the explore mode)
         // this code persists through all scenes but we don't want this to happen in scenes other than the overworld
@@ -70,23 +69,24 @@ public class ExploreModeData : MonoBehaviour
         {
             // update player data
             GameObject player = GameObject.Find("ExploreMode_Player");
-            if (playerPosition != null)
+            if (playerPosition != player.GetComponent<Rigidbody>().transform.position)
             {
-                player.GetComponent<Rigidbody>().transform.position = playerPosition;
+                ExploreModePlayerControls.player.rb.transform.position = playerPosition;
             }
-            if (playerRotation != null)
+            if (playerRotation != player.GetComponent<Rigidbody>().transform.rotation)
             {
-                player.GetComponent<Rigidbody>().transform.rotation = playerRotation;
+                ExploreModePlayerControls.player.rb.transform.rotation = playerRotation;
             }
-            if (playerEulerAngleVelocity != null)
+            if (playerEulerAngleVelocity != player.GetComponent<ExploreModePlayerControls>().eulerAngleVelocity)
             {
-                player.GetComponent<ExploreModePlayerControls>().eulerAngleVelocity = playerEulerAngleVelocity;
+                ExploreModePlayerControls.player.eulerAngleVelocity = playerEulerAngleVelocity;
             }
-            if (playerDeltaRotation != null)
+            if (playerDeltaRotation != player.GetComponent<ExploreModePlayerControls>().deltaRotation)
             {
-                player.GetComponent<ExploreModePlayerControls>().deltaRotation = playerDeltaRotation;
+                ExploreModePlayerControls.player.deltaRotation = playerDeltaRotation;
             }
         }
+
         // update planet data
         for (int i = 0; i < planetNames.Length; i++)
         {

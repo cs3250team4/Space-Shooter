@@ -18,9 +18,13 @@
  *             Joe Turner
  */
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ExploreModePlayerControls : MonoBehaviour
 {
+    // static player class
+    public static ExploreModePlayerControls player;
+
     public float thrust;                // forward or backwards force being applied
     public float rotateThrust;          // rotational force being applied
     public float maxVelocity;           // maximum velocity of ship
@@ -29,6 +33,20 @@ public class ExploreModePlayerControls : MonoBehaviour
     public Rigidbody rb;               // Rigidbody component of player's ship
     public Vector3 eulerAngleVelocity; // Euler angle velocity of ship
     public Quaternion deltaRotation;
+    public bool visible;
+
+    void Awake()
+    {
+        if (player == null)
+        {
+            DontDestroyOnLoad(gameObject);
+            player = this;
+        }
+        else if (player != this)
+        {
+            Destroy(gameObject);
+        }
+    }
 
     /*
      * Initialization
@@ -46,12 +64,14 @@ public class ExploreModePlayerControls : MonoBehaviour
 
         // Set maximum velocity
         maxVelocity = 5;
+
+        visible = true;
     }
 
     /*
      * Update is called once per frame
      */
-    void Update()
+    private void FixedUpdate()
     {
         //Check for keyboard input.
         thrustInput = Input.GetAxis("Vertical");
@@ -96,7 +116,7 @@ public class ExploreModePlayerControls : MonoBehaviour
         }
     }
 
-    void LateUpdate()
+    private void LateUpdate()
     {
         // update player position in ExploreModeData for presisting between scenes
         ExploreModeData.data.playerPosition = rb.transform.position;
@@ -108,3 +128,4 @@ public class ExploreModePlayerControls : MonoBehaviour
         ExploreModeData.data.playerDeltaRotation = deltaRotation;
     }
 }
+

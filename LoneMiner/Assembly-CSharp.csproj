@@ -164,6 +164,7 @@
     <Compile Include="Assets\Scripts\SolarSystemPlayerControl.cs" />
     <Compile Include="Assets\Scripts\Spin.cs" />
     <Compile Include="Assets\Scripts\StartButton.cs" />
+    <Compile Include="Assets\Scripts\TestDestroyByContact.cs" />
     <Compile Include="Assets\Scripts\TestMissionController.cs" />
     <Compile Include="Assets\Scripts\ThrusterTriggerBackward.cs" />
     <Compile Include="Assets\Scripts\ThrusterTriggerForward.cs" />
