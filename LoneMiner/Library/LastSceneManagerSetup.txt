@@ -1,8 +1,12 @@
 sceneSetups:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 - path: Assets/Scenes/ExploreMode2D.unity
 =======
 - path: Assets/Scenes/MissionL3.unity
 >>>>>>> Dev
+=======
+- path: Assets/Scenes/MissionJ.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1

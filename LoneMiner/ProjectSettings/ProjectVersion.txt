@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 m_EditorVersion: 2018.2.15f1
 =======
 m_EditorVersion: 2018.2.16f1
 >>>>>>> Dev
+=======
+m_EditorVersion: 2018.2.14f1
+>>>>>>> Stashed changes
