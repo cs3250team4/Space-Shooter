@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/ExploreMode2D.unity
+=======
 - path: Assets/Scenes/MissionL3.unity
+>>>>>>> Dev
   isLoaded: 1
   isActive: 1
