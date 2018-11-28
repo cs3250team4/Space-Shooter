@@ -56,8 +56,8 @@ public class DotEMissionController : MonoBehaviour {
     IEnumerator Wait()
     {
         yield return new WaitForSeconds(2.0f);
-        Time.timeScale = 0;
-        SceneManager.LoadScene("MainMenu");
+        //Time.timeScale = 0;
+        SceneManager.LoadScene("ExploreMode2D");
     }
 
     IEnumerator SpawnWaves()
