@@ -136,7 +136,6 @@
     <Compile Include="Assets\Scripts\L2Asteroid.cs" />
     <Compile Include="Assets\Scripts\L3Asteroid.cs" />
     <Compile Include="Assets\Scripts\MissionController.cs" />
-    <Compile Include="Assets\Scripts\MissionJScripts\PlayerDataMissionJ.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\OptionsMenuInventory.cs" />
