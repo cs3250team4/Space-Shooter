@@ -22,10 +22,10 @@ MonoBehaviour:
     y: 30
     width: 1435
     height: 787
-  m_MinSize: {x: 909, y: 421}
-  m_MaxSize: {x: 22004, y: 10000}
+  m_MinSize: {x: 917, y: 421}
+  m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 16752
+  controlID: 2149
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -46,7 +46,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: -72
+    x: 5
     y: 504
     width: 417
     height: 356
@@ -128,7 +128,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 421}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 16636
+  controlID: 2150
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,8 +147,8 @@ MonoBehaviour:
     y: 0
     width: 419
     height: 410
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -174,7 +174,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: -72
+    x: 5
     y: 94
     width: 417
     height: 389
@@ -276,8 +276,8 @@ MonoBehaviour:
     y: 0
     width: 208
     height: 787
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 8}
   m_Panes:
   - {fileID: 8}
@@ -303,16 +303,16 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 349
+    x: 426
     y: 94
     width: 204
     height: 766
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fcad0000
-    m_LastClickedID: 44540
-    m_ExpandedIDs: 62a5f6ff64a5f6ff02cef6ff0ebcfaffd0cefaff2009fbfff871ffffd488ffffd888ffffee88fffff288ffff0c89ffff0e89ffff7eccffffc8fbffffcafbfffff4ffffff00000000e03d0000003e00000c3e0000163e0000523e00005e3e00007c3e00009a3e0000ce5a0000505b000062ad00006ead000078ad00008aad000096ad0000b0ad0000f0ad0000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: ee42ffff0a46ffff28e7ffffe4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -353,8 +353,8 @@ MonoBehaviour:
     y: 0
     width: 367
     height: 787
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 234, y: 271}
+  m_MaxSize: {x: 10004, y: 10021}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -380,13 +380,13 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 557
+    x: 634
     y: 94
     width: 363
     height: 766
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: L3
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -396,22 +396,21 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/Scripts
+    m_Folders: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs/VFX/Explosions
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall
     2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 71}
-    m_SelectedIDs: 78340000
-    m_LastClickedID: 13432
-    m_ExpandedIDs: 000000000c2b0000fe2b0000022c0000642d0000e82d0000682e0000cc2f00005034000078340000cc390000ce390000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000042b0000022c0000062c0000762d0000fc2d0000862e000000300000ba340000e23400000e39000010390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -439,7 +438,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000c2b0000fe2b0000022c0000642d0000e82d0000682e0000cc2f00005034000078340000cc390000ce390000
+    m_ExpandedIDs: 00000000042b0000022c0000062c0000762d0000fc2d0000862e000000300000ba340000e23400000e39000010390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -464,8 +463,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: fcad0000
-    m_LastClickedInstanceID: 44540
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
@@ -491,7 +490,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 5644.5}
+    m_ScrollPosition: {x: 0, y: 167}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 231
 --- !u!114 &11
@@ -539,7 +538,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 924
+    x: 1001
     y: 94
     width: 439
     height: 766

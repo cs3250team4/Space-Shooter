@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/pauseMenu.unity
+- path: Assets/Scenes/MissionL3.unity
   isLoaded: 1
   isActive: 1
