@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/DotE.unity
+- path: Assets/Scenes/InventoryMenuTest.unity
   isLoaded: 1
   isActive: 1
