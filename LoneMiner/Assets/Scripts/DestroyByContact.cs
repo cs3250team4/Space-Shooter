@@ -5,6 +5,7 @@
  * https://unity3d.com/learn/tutorials/projects/space-shooter-tutorial/explosions?playlist=17147
  * 
  * Modified by Joe Turner mailto:jturne48@msudenver.edu
+ * Modified by Judith Saenz mailto:jsaenzes@msudenver.edu
  */
 
 using UnityEngine;
@@ -20,11 +21,11 @@ public class DestroyByContact : MonoBehaviour
     void Start()
     {
         GameObject missionControllerObject = GameObject.FindWithTag("GameController");
-        if(missionControllerObject != null)
+        if (missionControllerObject != null)
         {
             missionController = missionControllerObject.GetComponent<MissionController>();
         }
-        if(missionController == null)
+        if (missionController == null)
         {
             Debug.Log("Cannot find 'MissionController' script");
         }
@@ -39,16 +40,32 @@ public class DestroyByContact : MonoBehaviour
         if (explosion != null)
         {
             Instantiate(explosion, transform.position, transform.rotation);
-        }        
+        }
         if (other.tag == "Player")
         {
             if (this.tag == "EnemyShot")
             {
-                PlayerData.control.hullIntegrity -= 1;
+                if (PlayerData.control.shieldStrength > 0)
+                {
+                    PlayerData.control.shieldStrength -= 50;
+                }
+
+                else
+                {
+                    PlayerData.control.hullIntegrity -= 20;
+                }
             }
             if (this.tag == "Enemy")
             {
-                PlayerData.control.hullIntegrity -= 100;
+                if (PlayerData.control.shieldStrength > 0)
+                {
+                    PlayerData.control.shieldStrength -= 50;
+                }
+
+                else
+                {
+                    PlayerData.control.hullIntegrity -= 20;
+                }
             }
             if (PlayerData.control.hullIntegrity <= 0)
             {
@@ -59,7 +76,7 @@ public class DestroyByContact : MonoBehaviour
             }
 
         }
-        if(this.tag == "Enemy")
+        if (this.tag == "Enemy")
         {
             missionController.AddScore(1);
         }
