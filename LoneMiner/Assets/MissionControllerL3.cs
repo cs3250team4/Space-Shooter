@@ -86,7 +86,7 @@ public class MissionControllerL3 : MonoBehaviour {
     {
         yield return new WaitForSeconds(2.0f);
         //Time.timeScale = 0;
-        SceneManager.LoadScene("OverWorld");
+        SceneManager.LoadScene("ExploreMode2D");
         //SceneManager.LoadScene("OverWorld", LoadSceneMode.Additive);
         //SceneManager.SetActiveScene(SceneManager.GetSceneByName("OverWorld"));
     }
