@@ -38,10 +38,14 @@ MonoBehaviour:
 =======
     width: 1435
     height: 787
-  m_MinSize: {x: 909, y: 421}
-  m_MaxSize: {x: 22004, y: 10000}
+  m_MinSize: {x: 917, y: 421}
+  m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
+<<<<<<< HEAD
+  controlID: 2149
+=======
   controlID: 16752
+>>>>>>> Dev
 >>>>>>> Dev
 --- !u!114 &2
 MonoBehaviour:
@@ -68,12 +72,16 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+    x: 5
+=======
+<<<<<<< HEAD
     x: 0
     y: 487.2
     width: 672
     height: 355
 =======
     x: -72
+>>>>>>> Dev
     y: 504
     width: 417
     height: 356
@@ -194,7 +202,11 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 421}
   m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
+<<<<<<< HEAD
+  controlID: 2150
+=======
   controlID: 16636
+>>>>>>> Dev
 >>>>>>> Dev
 --- !u!114 &4
 MonoBehaviour:
@@ -220,8 +232,13 @@ MonoBehaviour:
 =======
     width: 419
     height: 410
+<<<<<<< HEAD
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+=======
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> Dev
 >>>>>>> Dev
   m_ActualView: {fileID: 5}
   m_Panes:
@@ -254,6 +271,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+    x: 5
+=======
+<<<<<<< HEAD
     x: 0
 <<<<<<< HEAD
     y: 91.200005
@@ -272,6 +292,7 @@ MonoBehaviour:
 =======
 =======
     x: -72
+>>>>>>> Dev
 >>>>>>> Dev
     y: 94
     width: 417
@@ -484,8 +505,8 @@ MonoBehaviour:
     y: 0
     width: 208
     height: 787
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 8}
 >>>>>>> Dev
   m_Panes:
@@ -513,6 +534,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+    x: 426
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 676
     y: 91.200005
@@ -529,6 +553,7 @@ MonoBehaviour:
 =======
     x: 349
 >>>>>>> Dev
+>>>>>>> Dev
     y: 94
     width: 204
     height: 766
@@ -538,12 +563,18 @@ MonoBehaviour:
 <<<<<<< HEAD
     m_SelectedIDs: 
     m_LastClickedID: 0
+    m_ExpandedIDs: ee42ffff0a46ffff28e7ffffe4fbffff00000000
+=======
+<<<<<<< HEAD
+    m_SelectedIDs: 
+    m_LastClickedID: 0
     m_ExpandedIDs: c030ffffd446ffff3e5cfffff68cfffff88cffff00000000
 >>>>>>> Dev
 =======
     m_SelectedIDs: fcad0000
     m_LastClickedID: 44540
     m_ExpandedIDs: 62a5f6ff64a5f6ff02cef6ff0ebcfaffd0cefaff2009fbfff871ffffd488ffffd888ffffee88fffff288ffff0c89ffff0e89ffff7eccffffc8fbffffcafbfffff4ffffff00000000e03d0000003e00000c3e0000163e0000523e00005e3e00007c3e00009a3e0000ce5a0000505b000062ad00006ead000078ad00008aad000096ad0000b0ad0000f0ad0000
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -606,8 +637,8 @@ MonoBehaviour:
     y: 0
     width: 367
     height: 787
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 234, y: 271}
+  m_MaxSize: {x: 10004, y: 10021}
   m_ActualView: {fileID: 10}
 >>>>>>> Dev
   m_Panes:
@@ -636,6 +667,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+    x: 634
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 676
     y: 592.4
@@ -649,13 +683,14 @@ MonoBehaviour:
 >>>>>>> Dev
 =======
     x: 557
+>>>>>>> Dev
     y: 94
     width: 363
     height: 766
 >>>>>>> Dev
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: L3
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -665,15 +700,22 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 1
+<<<<<<< HEAD
+    m_Folders: []
+=======
     m_Folders:
 <<<<<<< HEAD
     - Assets/Prefabs/SpaceDebris/Prefabs
 =======
     - Assets/Scripts
 >>>>>>> Dev
+>>>>>>> Dev
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
+<<<<<<< HEAD
+  - Assets/Prefabs/VFX/Explosions
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
   - Assets/Prefabs/SpaceDebris/Prefabs
@@ -691,12 +733,19 @@ MonoBehaviour:
 =======
   - Assets/Scripts
 >>>>>>> Dev
+>>>>>>> Dev
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall
     2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000042b0000022c0000062c0000762d0000fc2d0000862e000000300000ba340000e23400000e39000010390000
+=======
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
@@ -708,6 +757,7 @@ MonoBehaviour:
     m_SelectedIDs: 78340000
     m_LastClickedID: 13432
     m_ExpandedIDs: 000000000c2b0000fe2b0000022c0000642d0000e82d0000682e0000cc2f00005034000078340000cc390000ce390000
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -737,6 +787,9 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+    m_ExpandedIDs: 00000000042b0000022c0000062c0000762d0000fc2d0000862e000000300000ba340000e23400000e39000010390000
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_ExpandedIDs: 00000000622d0000622e00006a2e0000cc2f0000c6360000fc360000363c0000383c0000
 =======
@@ -744,6 +797,7 @@ MonoBehaviour:
 >>>>>>> Dev
 =======
     m_ExpandedIDs: 000000000c2b0000fe2b0000022c0000642d0000e82d0000682e0000cc2f00005034000078340000cc390000ce390000
+>>>>>>> Dev
 >>>>>>> Dev
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -770,6 +824,10 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedInstanceIDs: f43a0000
     m_LastClickedInstanceID: 15092
@@ -781,6 +839,7 @@ MonoBehaviour:
 =======
     m_SelectedInstanceIDs: fcad0000
     m_LastClickedInstanceID: 44540
+>>>>>>> Dev
     m_HadKeyboardFocusLastEvent: 0
 >>>>>>> Dev
     m_ExpandedInstanceIDs: 
@@ -816,6 +875,9 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
 <<<<<<< HEAD
+    m_ScrollPosition: {x: 0, y: 167}
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 16
@@ -850,6 +912,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 389}
 =======
     m_ScrollPosition: {x: 0, y: 5644.5}
+>>>>>>> Dev
 >>>>>>> Dev
     m_GridSize: 64
   m_DirectoriesAreaWidth: 231
@@ -914,6 +977,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+    x: 1001
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 1030
     y: 91.200005
@@ -927,6 +993,7 @@ MonoBehaviour:
 >>>>>>> Dev
 =======
     x: 924
+>>>>>>> Dev
     y: 94
     width: 439
     height: 766
