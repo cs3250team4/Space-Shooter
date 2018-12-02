@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.IO;
+using UnityEngine.SceneManagement;
 
 public class PlayerData : MonoBehaviour {
 
@@ -22,6 +23,10 @@ public class PlayerData : MonoBehaviour {
     public float maxShieldStrength;
     public float shieldStrength;
     public float laserDamage;
+    private Scene currentScene;
+    private string sceneName;
+    private ExploreModeRadiation radiationController;
+
 
     void Awake()
     {
@@ -33,6 +38,24 @@ public class PlayerData : MonoBehaviour {
         else if(control != this)
         {
             Destroy(gameObject);
+        }
+    }
+
+    private void Start()
+    {
+        radiationController = FindObjectOfType<ExploreModeRadiation>();
+    }
+
+    private void Update()
+    {
+        currentScene = SceneManager.GetActiveScene();
+        sceneName = currentScene.name;
+        if (sceneName == "ExploreMode2D" && shieldStrength < maxShieldStrength)
+        {
+            if(!radiationController.radiation)
+            {
+                shieldStrength++;
+            }
         }
     }
 }
