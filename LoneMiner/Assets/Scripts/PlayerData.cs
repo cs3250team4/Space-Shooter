@@ -50,12 +50,22 @@ public class PlayerData : MonoBehaviour {
     {
         currentScene = SceneManager.GetActiveScene();
         sceneName = currentScene.name;
-        if (sceneName == "ExploreMode2D" && shieldStrength < maxShieldStrength)
-        {
+        if (sceneName == "ExploreMode2D")
+        {            
             if(!radiationController.radiation)
             {
-                shieldStrength++;
+                // regenerate hull first
+                if (hullIntegrity < maxHullIntegrity)
+                {
+                    hullIntegrity++;
+                }
+                // if hull at 100%, regenerate shields
+                else if (shieldStrength < maxShieldStrength)
+                {
+                    shieldStrength++;
+                }
             }
         }
+        
     }
 }
