@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/ExploreMode2D.unity
+- path: Assets/Scenes/pauseMenu.unity
   isLoaded: 1
   isActive: 1
