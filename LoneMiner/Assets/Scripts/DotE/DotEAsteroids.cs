@@ -41,14 +41,38 @@ public class DotEAsteroids : MonoBehaviour
         }
         if (other.tag == "Player")
         {
+            //if (this.tag == "EnemyShot")
+            //{
+            //    PlayerData.control.hullIntegrity -= 1;
+            //}
+            //if (this.tag == "Enemy")
+            //{
+            //    PlayerData.control.hullIntegrity -= 100;
+            //}
+
             if (this.tag == "EnemyShot")
             {
-                PlayerData.control.hullIntegrity -= 1;
+                if (PlayerData.control.shieldStrength > 0)
+                {
+                    PlayerData.control.shieldStrength -= 50;
+                }
+                else
+                {
+                    PlayerData.control.hullIntegrity -= 20;
+                }
             }
             if (this.tag == "Enemy")
             {
-                PlayerData.control.hullIntegrity -= 100;
+                if (PlayerData.control.shieldStrength > 0)
+                {
+                    PlayerData.control.shieldStrength -= 50;
+                }
+                else
+                {
+                    PlayerData.control.hullIntegrity -= 20;
+                }
             }
+
             if (PlayerData.control.hullIntegrity <= 0)
             {
                 PlayerData.control.hullIntegrity = 0;
