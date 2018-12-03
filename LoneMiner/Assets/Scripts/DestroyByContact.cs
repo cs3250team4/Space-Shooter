@@ -49,7 +49,6 @@ public class DestroyByContact : MonoBehaviour
                 {
                     PlayerData.control.shieldStrength -= 50;
                 }
-
                 else
                 {
                     PlayerData.control.hullIntegrity -= 20;
@@ -61,7 +60,6 @@ public class DestroyByContact : MonoBehaviour
                 {
                     PlayerData.control.shieldStrength -= 50;
                 }
-
                 else
                 {
                     PlayerData.control.hullIntegrity -= 20;
@@ -74,7 +72,6 @@ public class DestroyByContact : MonoBehaviour
                 Destroy(other.gameObject);
                 missionController.MissionFailed();
             }
-
         }
         if (this.tag == "Enemy")
         {
