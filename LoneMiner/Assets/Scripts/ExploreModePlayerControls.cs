@@ -2,7 +2,10 @@
  * ExploreModePlayerControls
  * 
  * Adapted from ShipControls.cs
- * - added Radiation particle system control
+ * - added:
+ *    - slow down after no input (Ken Berry)
+ *    - 
+ * 
  * 
  * Allows user to control the player ship
  * when added as a component of the "Player" GameObject
@@ -118,13 +121,17 @@ public class ExploreModePlayerControls : MonoBehaviour
 
     private void LateUpdate()
     {
-        // update player position in ExploreModeData for presisting between scenes
+        // update player thrust in ExploreModeData
+        ExploreModeData.data.thrust = thrust;
+        // update player rotational thrust in ExploreModeData
+        ExploreModeData.data.rotateThrust = rotateThrust;
+        // update player position in ExploreModeData 
         ExploreModeData.data.playerPosition = rb.transform.position;
-        // update player rotation in ExploreModeData for presisting between scenes
+        // update player rotation in ExploreModeData 
         ExploreModeData.data.playerRotation = rb.transform.rotation;
-        // update player position in ExploreModeData for presisting between scenes
+        // update player position in ExploreModeData 
         ExploreModeData.data.playerEulerAngleVelocity = eulerAngleVelocity;
-        // update player rotation in ExploreModeData for presisting between scenes
+        // update player rotation in ExploreModeData 
         ExploreModeData.data.playerDeltaRotation = deltaRotation;
     }
 }

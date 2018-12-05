@@ -16,6 +16,8 @@ public class ExploreModeData : MonoBehaviour
     public static ExploreModeData data;
 
     // explore mode player data
+    public float thrust;
+    public float rotateThrust;
     public Vector3 playerPosition;
     public Quaternion playerRotation;
     public Vector3 playerEulerAngleVelocity;
@@ -43,6 +45,8 @@ public class ExploreModeData : MonoBehaviour
     void Start()
     {
         GameObject player = GameObject.Find("ExploreMode_Player");
+        thrust = ExploreModePlayerControls.player.thrust;
+        rotateThrust = ExploreModePlayerControls.player.rotateThrust;
         playerPosition = ExploreModePlayerControls.player.rb.transform.position;
         playerRotation = ExploreModePlayerControls.player.rb.transform.rotation;
         playerEulerAngleVelocity = ExploreModePlayerControls.player.eulerAngleVelocity;
@@ -69,6 +73,14 @@ public class ExploreModeData : MonoBehaviour
         {
             // update player data
             GameObject player = GameObject.Find("ExploreMode_Player");
+            if (thrust != player.GetComponent<ExploreModePlayerControls>().thrust)
+            {
+                ExploreModePlayerControls.player.thrust = thrust;
+            }
+            if (rotateThrust != player.GetComponent<ExploreModePlayerControls>().rotateThrust)
+            {
+                ExploreModePlayerControls.player.rotateThrust = rotateThrust;
+            }
             if (playerPosition != player.GetComponent<Rigidbody>().transform.position)
             {
                 ExploreModePlayerControls.player.rb.transform.position = playerPosition;
