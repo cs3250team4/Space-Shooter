@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Git/builds/LoneMiner.exe
+C:/Users/rossk_000/Desktop/Final Build/MAYBE/LoneMiner.exe
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/ExploreMode2D.unity

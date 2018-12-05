@@ -21,8 +21,9 @@ public class ExploreModeMissionLaunch : MonoBehaviour
     {
         player = GameObject.Find("ExploreMode_Player");
         player.GetComponent<MeshRenderer>().enabled = true;
-        foreach (Renderer r in GetComponentsInChildren<Renderer>())
-            r.enabled = true;
+        foreach (Transform t in player.GetComponentsInChildren<Transform>())
+            foreach(Renderer r in t.GetComponentsInChildren<Renderer>())
+                r.enabled = true;
     }
 
     // called on (left) mouse click
@@ -32,8 +33,9 @@ public class ExploreModeMissionLaunch : MonoBehaviour
         {
             // make static ExploreMode_Player class invisible
             player.GetComponent<MeshRenderer>().enabled = false;
-            foreach (Renderer r in GetComponentsInChildren<Renderer>())
-                r.enabled = false;
+            foreach (Transform t in player.GetComponentsInChildren<Transform>())
+                foreach (Renderer r in t.GetComponentsInChildren<Renderer>())
+                    r.enabled = false;
 
             // load the scene
             SceneManager.LoadScene(scene);
