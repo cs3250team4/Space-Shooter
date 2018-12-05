@@ -190,7 +190,7 @@ e6af79a0ae6c367d0f8146bf72248ea7 Assembly-CSharp.dll:Prototype.NetworkLobby.Lobb
 603d3fe3a41e70133f6adbfcd530f83e Assembly-CSharp.dll:.PixelMake_AstroidController
 de511c9fe9dac6e5298205106785d741 Assembly-CSharp.dll:.TopDownPlayerController
 c22691a0ee15993372078db0c5407772 Assembly-CSharp.dll:.DotEMissionController
-760a7ce05c0c678313662f30def07bba Assembly-CSharp.dll:.ExploreModeData
+3e0aff4902467d0f808dd1bf6cf0450b Assembly-CSharp.dll:.ExploreModeData
 bc1e78c40d753ffeeeeb73d5da3dd4f8 Assembly-CSharp.dll:.SideScrollPlayerController
 3cb945a7574ed3b38d63b4e06537262c Assembly-CSharp.dll:.DropMe
 2fb10b3a407006162a11380d26cf52ca Assembly-CSharp.dll:.OW_LoadMission
