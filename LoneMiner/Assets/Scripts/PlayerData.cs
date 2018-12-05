@@ -18,6 +18,7 @@ public class PlayerData : MonoBehaviour {
     public static PlayerData control;
 
     // Player Data
+    public bool pause;
     public float maxHullIntegrity;
     public float hullIntegrity;
     public float maxShieldStrength;
@@ -44,6 +45,7 @@ public class PlayerData : MonoBehaviour {
     private void Start()
     {
         radiationController = FindObjectOfType<ExploreModeRadiation>();
+        pause = false;
     }
 
     private void Update()

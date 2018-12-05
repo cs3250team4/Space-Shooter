@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/rossk_000/Desktop/Final Build/MAYBE/LoneMiner.exe
+C:/Users/rossk_000/Desktop/Final Build/TEST/LoneMiner.exe
 SceneListBegin?
 Assets/Scenes/MainMenu.unity
 Assets/Scenes/ExploreMode2D.unity
@@ -236,7 +236,7 @@ d33ca682ebf67c138052c44a5b20c529 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 e53cc67d84060d628c7f03fc725766d8 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 392c5b921098bd4c139d9146d0efa6d7 Unity.TextMeshPro.dll:TMPro.TMP_Settings
 a90d6901a99744ae38d30050782e4e34 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Cameras.HandHeldCam
-ef3ba8802cc7afbb7f690fa504580d4b Assembly-CSharp.dll:.PlayerData
+b1da798093c4849019e2ed8609d15a33 Assembly-CSharp.dll:.PlayerData
 e167e193b827b13ee988c197178df1fa Assembly-CSharp.dll:.L2Asteroid
 ddcae71b3f91386237efd012a9eef2be UnityEngine.TestRunner.dll:UnityEngine.TestTools.EnumerableSetUpTearDownCommandState
 486cd95c82d8305219c352c06b776e1f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback

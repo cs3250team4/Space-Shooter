@@ -14,6 +14,7 @@ public class PauseScene : MonoBehaviour {
 		
 	}
     public void Resume(){
+        PlayerData.control.pause = false;
         Time.timeScale = 1;
         Destroy(gameObject);
     }

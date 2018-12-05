@@ -10,6 +10,8 @@ using UnityEngine;
 
 public class CallPauseScene : MonoBehaviour {
 
+    private bool pause;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -19,9 +21,13 @@ public class CallPauseScene : MonoBehaviour {
 	void Update () {
         if(Input.GetKeyDown(KeyCode.Escape))
         {
-            Time.timeScale = 0;
-            Application.LoadLevelAdditive("pauseMenu");
-            //Application.LoadLevelAdditive(3);
+            if (!PlayerData.control.pause)
+            {
+                PlayerData.control.pause = true;
+                Time.timeScale = 0;
+                Application.LoadLevelAdditive("pauseMenu");
+                //Application.LoadLevelAdditive(3);
+            }
         }
 		
 	}
