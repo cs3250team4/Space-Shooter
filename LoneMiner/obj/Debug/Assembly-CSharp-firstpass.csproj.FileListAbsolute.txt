@@ -1,0 +1,417 @@
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Boo.Lang.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/mscorlib.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/System.Core.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/System.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/System.Xml.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.Locator.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEditor.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityScript.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.Cecil.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.DataContract.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Mono.Security.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEditor.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/obj/Debug/Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/obj/Debug/Assembly-CSharp-firstpass.csproj.CopyComplete
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/obj/Debug/Assembly-CSharp-firstpass.pdb
+/Users/fpfennell/Library/Mobile Documents/com~apple~CloudDocs/Fall 2018/cs 3250/Space Shooter/Space-Shooter/LoneMiner/Temp/bin/Debug/Facebook.Unity.Settings.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\mscorlib.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\System.Core.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\System.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\System.Xml.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityScript.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Judi\Desktop\1125SpaceShooter\LoneMiner\obj\Debug\Assembly-CSharp-firstpass.pdb
